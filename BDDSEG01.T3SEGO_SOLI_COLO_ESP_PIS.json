@@ -1,0 +1,507 @@
+{
+"SELECT * FROM BDDSEG01.T3SEGO_SOLI_COLO_ESP_PIS": [
+	{
+		"ID_FOLIO" : "101",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "5"
+	},
+	{
+		"ID_FOLIO" : "133",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "2"
+	},
+	{
+		"ID_FOLIO" : "52",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "1"
+	},
+	{
+		"ID_FOLIO" : "49",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "3"
+	},
+	{
+		"ID_FOLIO" : "71",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "43"
+	},
+	{
+		"ID_FOLIO" : "129",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "2"
+	},
+	{
+		"ID_FOLIO" : "129",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "2"
+	},
+	{
+		"ID_FOLIO" : "21",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "50"
+	},
+	{
+		"ID_FOLIO" : "21",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "50"
+	},
+	{
+		"ID_FOLIO" : "102",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "12"
+	},
+	{
+		"ID_FOLIO" : "128",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "1"
+	},
+	{
+		"ID_FOLIO" : "150",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "1"
+	},
+	{
+		"ID_FOLIO" : "156",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "232"
+	},
+	{
+		"ID_FOLIO" : "204",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "43"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "10"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "10"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"GABINETE" : "Gabinete 3",
+		"TECNOLOGIA" : "Min Tower",
+		"SUPERFICIE" : "30"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"GABINETE" : "Gabinete 4",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "40"
+	},
+	{
+		"ID_FOLIO" : "56",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "1"
+	},
+	{
+		"ID_FOLIO" : "44",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Min Tower",
+		"SUPERFICIE" : "7"
+	},
+	{
+		"ID_FOLIO" : "69",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "200"
+	},
+	{
+		"ID_FOLIO" : "47",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "100"
+	},
+	{
+		"ID_FOLIO" : "47",
+		"GABINETE" : "Gabinete 3",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "100"
+	},
+	{
+		"ID_FOLIO" : "68",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "200"
+	},
+	{
+		"ID_FOLIO" : "7",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "20"
+	},
+	{
+		"ID_FOLIO" : "19",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "21"
+	},
+	{
+		"ID_FOLIO" : "51",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "10"
+	},
+	{
+		"ID_FOLIO" : "51",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "15"
+	},
+	{
+		"ID_FOLIO" : "63",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "10"
+	},
+	{
+		"ID_FOLIO" : "4",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "9"
+	},
+	{
+		"ID_FOLIO" : "9",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "10"
+	},
+	{
+		"ID_FOLIO" : "11",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "200"
+	},
+	{
+		"ID_FOLIO" : "11",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "50"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"GABINETE" : "Gabinete 5",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "20"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"GABINETE" : "Gabinete 6",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "20"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"GABINETE" : "Gabinete 7",
+		"TECNOLOGIA" : "Min Tower",
+		"SUPERFICIE" : "1"
+	},
+	{
+		"ID_FOLIO" : "5",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "40"
+	},
+	{
+		"ID_FOLIO" : "5",
+		"GABINETE" : "Gabinete 3",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "10"
+	},
+	{
+		"ID_FOLIO" : "5",
+		"GABINETE" : "Gabinete 4",
+		"TECNOLOGIA" : "Min Tower",
+		"SUPERFICIE" : "5"
+	},
+	{
+		"ID_FOLIO" : "5",
+		"GABINETE" : "Gabinete 5",
+		"TECNOLOGIA" : "Min Tower",
+		"SUPERFICIE" : "5"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "345345"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "5345"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"GABINETE" : "Gabinete 3",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "765"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"GABINETE" : "Gabinete 4",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "4234"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"GABINETE" : "Gabinete 5",
+		"TECNOLOGIA" : "Min Tower",
+		"SUPERFICIE" : "6546"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"GABINETE" : "Gabinete 6",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "7567"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"GABINETE" : "Gabinete 7",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "9789678"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"GABINETE" : "Gabinete 8",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "5345"
+	},
+	{
+		"ID_FOLIO" : "38",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "20"
+	},
+	{
+		"ID_FOLIO" : "38",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Min Tower",
+		"SUPERFICIE" : "10"
+	},
+	{
+		"ID_FOLIO" : "38",
+		"GABINETE" : "Gabinete 3",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "20"
+	},
+	{
+		"ID_FOLIO" : "53",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "20"
+	},
+	{
+		"ID_FOLIO" : "64",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "5"
+	},
+	{
+		"ID_FOLIO" : "37",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "100"
+	},
+	{
+		"ID_FOLIO" : "28",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "4234"
+	},
+	{
+		"ID_FOLIO" : "60",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "10"
+	},
+	{
+		"ID_FOLIO" : "28",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "423423"
+	},
+	{
+		"ID_FOLIO" : "87",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "56"
+	},
+	{
+		"ID_FOLIO" : "91",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "56"
+	},
+	{
+		"ID_FOLIO" : "126",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "2"
+	},
+	{
+		"ID_FOLIO" : "131",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "5"
+	},
+	{
+		"ID_FOLIO" : "135",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "10"
+	},
+	{
+		"ID_FOLIO" : "135",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Min Tower",
+		"SUPERFICIE" : "22"
+	},
+	{
+		"ID_FOLIO" : "138",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "223"
+	},
+	{
+		"ID_FOLIO" : "130",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "1"
+	},
+	{
+		"ID_FOLIO" : "146",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "55"
+	},
+	{
+		"ID_FOLIO" : "190",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "12"
+	},
+	{
+		"ID_FOLIO" : "197",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "45"
+	},
+	{
+		"ID_FOLIO" : "196",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "4"
+	},
+	{
+		"ID_FOLIO" : "194",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "2"
+	},
+	{
+		"ID_FOLIO" : "195",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "2"
+	},
+	{
+		"ID_FOLIO" : "202",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "23"
+	},
+	{
+		"ID_FOLIO" : "88",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "120"
+	},
+	{
+		"ID_FOLIO" : "89",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "200"
+	},
+	{
+		"ID_FOLIO" : "94",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "120"
+	},
+	{
+		"ID_FOLIO" : "95",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "45"
+	},
+	{
+		"ID_FOLIO" : "96",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "56"
+	},
+	{
+		"ID_FOLIO" : "103",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "23"
+	},
+	{
+		"ID_FOLIO" : "65",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "12"
+	},
+	{
+		"ID_FOLIO" : "61",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "123"
+	},
+	{
+		"ID_FOLIO" : "78",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "12"
+	},
+	{
+		"ID_FOLIO" : "144",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "1"
+	},
+	{
+		"ID_FOLIO" : "202",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "3"
+	},
+	{
+		"ID_FOLIO" : "186",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "2"
+	}
+]}

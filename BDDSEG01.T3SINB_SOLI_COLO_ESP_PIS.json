@@ -1,0 +1,91 @@
+{
+"SELECT * FROM BDDSEG01.T3SINB_SOLI_COLO_ESP_PIS": [
+	{
+		"ID_FOLIO" : "133",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "2",
+		"ID_HIST_SOLICITUD" : "133-3",
+		"ID_VERSION" : 3
+	},
+	{
+		"ID_FOLIO" : "150",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "1",
+		"ID_HIST_SOLICITUD" : "150-2",
+		"ID_VERSION" : 0
+	},
+	{
+		"ID_FOLIO" : "126",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "2",
+		"ID_HIST_SOLICITUD" : "126-2",
+		"ID_VERSION" : 1
+	},
+	{
+		"ID_FOLIO" : "131",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "5",
+		"ID_HIST_SOLICITUD" : "131-2",
+		"ID_VERSION" : 1
+	},
+	{
+		"ID_FOLIO" : "128",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "1",
+		"ID_HIST_SOLICITUD" : "128-1",
+		"ID_VERSION" : 1
+	},
+	{
+		"ID_FOLIO" : "190",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "12",
+		"ID_HIST_SOLICITUD" : "190-2",
+		"ID_VERSION" : 0
+	},
+	{
+		"ID_FOLIO" : "202",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Mid Tower",
+		"SUPERFICIE" : "23",
+		"ID_HIST_SOLICITUD" : "202-2",
+		"ID_VERSION" : 2
+	},
+	{
+		"ID_FOLIO" : "129",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "2",
+		"ID_HIST_SOLICITUD" : "129-5",
+		"ID_VERSION" : 5
+	},
+	{
+		"ID_FOLIO" : "129",
+		"GABINETE" : "Gabinete 2",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "2",
+		"ID_HIST_SOLICITUD" : "129-5",
+		"ID_VERSION" : 5
+	},
+	{
+		"ID_FOLIO" : "144",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "1",
+		"ID_HIST_SOLICITUD" : "144-1",
+		"ID_VERSION" : 1
+	},
+	{
+		"ID_FOLIO" : "202",
+		"GABINETE" : "Gabinete 1",
+		"TECNOLOGIA" : "Full Tower",
+		"SUPERFICIE" : "3",
+		"ID_HIST_SOLICITUD" : "202-2",
+		"ID_VERSION" : 2
+	}
+]}

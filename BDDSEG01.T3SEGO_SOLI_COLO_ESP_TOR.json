@@ -1,0 +1,1123 @@
+{
+"SELECT * FROM BDDSEG01.T3SEGO_SOLI_COLO_ESP_TOR": [
+	{
+		"ID_FOLIO" : "101",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "5 GDOS",
+		"NCR" : "5 MTS",
+		"DIMENSIONES" : "4 X 4 CM",
+		"FRE_RX" : "5 MHz",
+		"FRE_TX" : "5 MHz",
+		"PESO" : "4 KG"
+	},
+	{
+		"ID_FOLIO" : "133",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "6 GDOS",
+		"NCR" : "6 MTS",
+		"DIMENSIONES" : "5 CM",
+		"FRE_RX" : "6 MHz",
+		"FRE_TX" : "6 GHz",
+		"PESO" : "5 KG"
+	},
+	{
+		"ID_FOLIO" : "52",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "22 GDOS",
+		"NCR" : "33 MTS",
+		"DIMENSIONES" : "20 X 20 CM",
+		"FRE_RX" : "44 MHz",
+		"FRE_TX" : "55 MHz",
+		"PESO" : "10 KG"
+	},
+	{
+		"ID_FOLIO" : "49",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "6 GDOS",
+		"NCR" : "7 MTS",
+		"DIMENSIONES" : "11 CM",
+		"FRE_RX" : "8 MHz",
+		"FRE_TX" : "9 GHz",
+		"PESO" : "22 KG"
+	},
+	{
+		"ID_FOLIO" : "49",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "9 GDOS",
+		"NCR" : "8 MTS",
+		"DIMENSIONES" : "111 X 222 CM",
+		"FRE_RX" : "7 MHz",
+		"FRE_TX" : "6 MHz",
+		"PESO" : "333 KG"
+	},
+	{
+		"ID_FOLIO" : "49",
+		"TIPO_ANTENA" : "ANTENA 2 MW",
+		"ORIENTACION" : "3 GDOS",
+		"NCR" : "4 MTS",
+		"DIMENSIONES" : "444 CM",
+		"FRE_RX" : "5 MHz",
+		"FRE_TX" : "6 GHz",
+		"PESO" : "555 KG"
+	},
+	{
+		"ID_FOLIO" : "49",
+		"TIPO_ANTENA" : "ANTENA 2 RF",
+		"ORIENTACION" : "22 GDOS",
+		"NCR" : "3 MTS",
+		"DIMENSIONES" : "44 X 55 CM",
+		"FRE_RX" : "4 MHz",
+		"FRE_TX" : "5 MHz",
+		"PESO" : "66 KG"
+	},
+	{
+		"ID_FOLIO" : "71",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "21 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "21 X 12 CM",
+		"FRE_RX" : "21 MHz",
+		"FRE_TX" : "12 MHz",
+		"PESO" : "12 KG"
+	},
+	{
+		"ID_FOLIO" : "129",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "22 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "2 X 2 CM",
+		"FRE_RX" : "2 MHz",
+		"FRE_TX" : "2 MHz",
+		"PESO" : "2 KG"
+	},
+	{
+		"ID_FOLIO" : "129",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "2 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "2 CM",
+		"FRE_RX" : "2 MHz",
+		"FRE_TX" : "2 GHz",
+		"PESO" : "2 KG"
+	},
+	{
+		"ID_FOLIO" : "21",
+		"TIPO_ANTENA" : "Antena 1 FR",
+		"ORIENTACION" : "22 GDOS",
+		"NCR" : "52 MTS",
+		"DIMENSIONES" : "null CM",
+		"FRE_RX" : "52 MHz",
+		"FRE_TX" : "50 GHz",
+		"PESO" : "50 KG"
+	},
+	{
+		"ID_FOLIO" : "102",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "23 GDOS",
+		"NCR" : "45 MTS",
+		"DIMENSIONES" : "10 X 20 CM",
+		"FRE_RX" : "67 MHz",
+		"FRE_TX" : "87 MHz",
+		"PESO" : "30 KG"
+	},
+	{
+		"ID_FOLIO" : "102",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "12 GDOS",
+		"NCR" : "23 MTS",
+		"DIMENSIONES" : "30 CM",
+		"FRE_RX" : "62 MHz",
+		"FRE_TX" : "35 GHz",
+		"PESO" : "40 KG"
+	},
+	{
+		"ID_FOLIO" : "128",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "1 MTS",
+		"DIMENSIONES" : "2000 CM",
+		"FRE_RX" : "1 MHz",
+		"FRE_TX" : "1 GHz",
+		"PESO" : "300 KG"
+	},
+	{
+		"ID_FOLIO" : "150",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "1 X 2 CM",
+		"FRE_RX" : "3 MHz",
+		"FRE_TX" : "4 MHz",
+		"PESO" : "3 KG"
+	},
+	{
+		"ID_FOLIO" : "156",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "2 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "2 CM",
+		"FRE_RX" : "2 MHz",
+		"FRE_TX" : "2 GHz",
+		"PESO" : "32 KG"
+	},
+	{
+		"ID_FOLIO" : "204",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "11 GDOS",
+		"NCR" : "33 MTS",
+		"DIMENSIONES" : "34 CM",
+		"FRE_RX" : "22 MHz",
+		"FRE_TX" : "22 GHz",
+		"PESO" : "32 KG"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "10 GDOS",
+		"NCR" : "10 MTS",
+		"DIMENSIONES" : "10 X 10 CMS",
+		"FRE_RX" : "10 MHz",
+		"FRE_TX" : "10 MHz",
+		"PESO" : "10 KGS"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"TIPO_ANTENA" : "Antena 1 MW",
+		"ORIENTACION" : "20 GDOS",
+		"NCR" : "20 MTS",
+		"DIMENSIONES" : "20 CMS",
+		"FRE_RX" : "20 GHz",
+		"FRE_TX" : "20 GHz",
+		"PESO" : "20 KGS"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"TIPO_ANTENA" : "Antena 2 RF",
+		"ORIENTACION" : "3 GDOS",
+		"NCR" : "3 MTS",
+		"DIMENSIONES" : "3 X 3 CMS",
+		"FRE_RX" : "3 MHz",
+		"FRE_TX" : "3 MHz",
+		"PESO" : "3 KGS"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"TIPO_ANTENA" : "Antena 2 MW",
+		"ORIENTACION" : "40 GDOS",
+		"NCR" : "40 MTS",
+		"DIMENSIONES" : "40 CMS",
+		"FRE_RX" : "40 GHz",
+		"FRE_TX" : "40 GHz",
+		"PESO" : "40 KGS"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"TIPO_ANTENA" : "Antena 3 RF",
+		"ORIENTACION" : "50 GDOS",
+		"NCR" : "50 MTS",
+		"DIMENSIONES" : "50 X 50 CMS",
+		"FRE_RX" : "50 MHz",
+		"FRE_TX" : "50 MHz",
+		"PESO" : "50 KGS"
+	},
+	{
+		"ID_FOLIO" : "44",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "97.86 GDOS",
+		"NCR" : "7 MTS",
+		"DIMENSIONES" : "250 X 250 CMS",
+		"FRE_RX" : "2600 MHz",
+		"FRE_TX" : "2750 MHz",
+		"PESO" : "10 KGS"
+	},
+	{
+		"ID_FOLIO" : "44",
+		"TIPO_ANTENA" : "Antena 2 RF",
+		"ORIENTACION" : "98.54 GDOS",
+		"NCR" : "7 MTS",
+		"DIMENSIONES" : "250 X 250 CMS",
+		"FRE_RX" : "2800 MHz",
+		"FRE_TX" : "2900 MHz",
+		"PESO" : "10 KGS"
+	},
+	{
+		"ID_FOLIO" : "56",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "21 GDOS",
+		"NCR" : "32 MTS",
+		"DIMENSIONES" : "67 X 87 CM",
+		"FRE_RX" : "43 MHz",
+		"FRE_TX" : "45 MHz",
+		"PESO" : "56 KG"
+	},
+	{
+		"ID_FOLIO" : "56",
+		"TIPO_ANTENA" : "Antena 1 MW",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "3 CM",
+		"FRE_RX" : "4 GHz",
+		"FRE_TX" : "5 GHz",
+		"PESO" : "6 KG"
+	},
+	{
+		"ID_FOLIO" : "69",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "100 GDOS",
+		"NCR" : "100 MTS",
+		"DIMENSIONES" : "100 X 100 CM",
+		"FRE_RX" : "100 MHz",
+		"FRE_TX" : "100 MHz",
+		"PESO" : "100 KG"
+	},
+	{
+		"ID_FOLIO" : "47",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "100 (°)",
+		"NCR" : "100 mts",
+		"DIMENSIONES" : "100 X 100 m",
+		"FRE_RX" : "100 MHz",
+		"FRE_TX" : "100 MHz",
+		"PESO" : "100 kg"
+	},
+	{
+		"ID_FOLIO" : "68",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "100 GDOS",
+		"NCR" : "100 MTS",
+		"DIMENSIONES" : "100 X 100 CMS",
+		"FRE_RX" : "100 MHz",
+		"FRE_TX" : "100 MHz",
+		"PESO" : "100 KGS"
+	},
+	{
+		"ID_FOLIO" : "7",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "90.12 GDOS",
+		"NCR" : "20 MTS",
+		"DIMENSIONES" : "250 X 250 CMS",
+		"FRE_RX" : "2100 MHz",
+		"FRE_TX" : "1900 MHz",
+		"PESO" : "10 KGS"
+	},
+	{
+		"ID_FOLIO" : "9",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "90 GDOS",
+		"NCR" : "20 MTS",
+		"DIMENSIONES" : "250 X 250 CMS",
+		"FRE_RX" : "2100 MHz",
+		"FRE_TX" : "2000 MHz",
+		"PESO" : "10 KGS"
+	},
+	{
+		"ID_FOLIO" : "19",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "12 (°)",
+		"NCR" : "12 mts",
+		"DIMENSIONES" : "12 X 12 m",
+		"FRE_RX" : "12 MHz",
+		"FRE_TX" : "12 MHz",
+		"PESO" : "12 kg"
+	},
+	{
+		"ID_FOLIO" : "4",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "87 GDOS",
+		"NCR" : "9 MTS",
+		"DIMENSIONES" : "8 X 8 CMS",
+		"FRE_RX" : "8 MHz",
+		"FRE_TX" : "8 MHz",
+		"PESO" : "8 KGS"
+	},
+	{
+		"ID_FOLIO" : "51",
+		"TIPO_ANTENA" : "Antena 1 MW",
+		"ORIENTACION" : "10 (GDOS)",
+		"NCR" : "10 MTS",
+		"DIMENSIONES" : "2 cm",
+		"FRE_RX" : "10 MHz",
+		"FRE_TX" : "10 GHz",
+		"PESO" : "10 kg"
+	},
+	{
+		"ID_FOLIO" : "4",
+		"TIPO_ANTENA" : "Antena 2 RF",
+		"ORIENTACION" : "8 GDOS",
+		"NCR" : "8 MTS",
+		"DIMENSIONES" : "88 X 8 CMS",
+		"FRE_RX" : "8 MHz",
+		"FRE_TX" : "8 MHz",
+		"PESO" : "8 KGS"
+	},
+	{
+		"ID_FOLIO" : "4",
+		"TIPO_ANTENA" : "Antena 3 RF",
+		"ORIENTACION" : "655 GDOS",
+		"NCR" : "555 MTS",
+		"DIMENSIONES" : "5656 X 565 CMS",
+		"FRE_RX" : "555 MHz",
+		"FRE_TX" : "55 MHz",
+		"PESO" : "65 KGS"
+	},
+	{
+		"ID_FOLIO" : "51",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "20 (GDOS)",
+		"NCR" : "20 mts",
+		"DIMENSIONES" : "20 X 20 cm",
+		"FRE_RX" : "20 MHz",
+		"FRE_TX" : "20 MHz",
+		"PESO" : "20 kg"
+	},
+	{
+		"ID_FOLIO" : "51",
+		"TIPO_ANTENA" : "Antena 2 MW",
+		"ORIENTACION" : "30 (GDOS)",
+		"NCR" : "30 mts",
+		"DIMENSIONES" : "30 cm",
+		"FRE_RX" : "30 GHz",
+		"FRE_TX" : "30 GHz",
+		"PESO" : "30 kg"
+	},
+	{
+		"ID_FOLIO" : "63",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "10 GDOS",
+		"NCR" : "10 MTS",
+		"DIMENSIONES" : "10 X 10 CMS",
+		"FRE_RX" : "10 MHz",
+		"FRE_TX" : "10 MHz",
+		"PESO" : "10 KGS"
+	},
+	{
+		"ID_FOLIO" : "11",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "10 GDOS",
+		"NCR" : "10 MTS",
+		"DIMENSIONES" : "10 X 10 CMS",
+		"FRE_RX" : "10 MHz",
+		"FRE_TX" : "10 MHz",
+		"PESO" : "10 KGS"
+	},
+	{
+		"ID_FOLIO" : "11",
+		"TIPO_ANTENA" : "Antena 2 RF",
+		"ORIENTACION" : "5 GDOS",
+		"NCR" : "5 MTS",
+		"DIMENSIONES" : "5 X 5 CMS",
+		"FRE_RX" : "5 MHz",
+		"FRE_TX" : "5 MHz",
+		"PESO" : "5 KGS"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"TIPO_ANTENA" : "Antena 4 RF",
+		"ORIENTACION" : "60 GDOS",
+		"NCR" : "60 MTS",
+		"DIMENSIONES" : "60 X 60 CMS",
+		"FRE_RX" : "60 MHz",
+		"FRE_TX" : "60 MHz",
+		"PESO" : "60 KGS"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"TIPO_ANTENA" : "Antena 5 RF",
+		"ORIENTACION" : "10 GDOS",
+		"NCR" : "10 MTS",
+		"DIMENSIONES" : "10 X 10 CMS",
+		"FRE_RX" : "10 MHz",
+		"FRE_TX" : "10 MHz",
+		"PESO" : "10 KGS"
+	},
+	{
+		"ID_FOLIO" : "14",
+		"TIPO_ANTENA" : "Antena 3 MW",
+		"ORIENTACION" : "99 GDOS",
+		"NCR" : "99 MTS",
+		"DIMENSIONES" : "99 CMS",
+		"FRE_RX" : "99 GHz",
+		"FRE_TX" : "99 GHz",
+		"PESO" : "99 KGS"
+	},
+	{
+		"ID_FOLIO" : "5",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "1 MTS",
+		"DIMENSIONES" : "1 X 1 CMS",
+		"FRE_RX" : "1 MHz",
+		"FRE_TX" : "1 MHz",
+		"PESO" : "1 KGS"
+	},
+	{
+		"ID_FOLIO" : "5",
+		"TIPO_ANTENA" : "Antena 1 MW",
+		"ORIENTACION" : "3 GDOS",
+		"NCR" : "3 MTS",
+		"DIMENSIONES" : "3 CMS",
+		"FRE_RX" : "3 GHz",
+		"FRE_TX" : "3 GHz",
+		"PESO" : "3 KGS"
+	},
+	{
+		"ID_FOLIO" : "5",
+		"TIPO_ANTENA" : "Antena 3 RF",
+		"ORIENTACION" : "4 GDOS",
+		"NCR" : "4 MTS",
+		"DIMENSIONES" : "4 X 4 CMS",
+		"FRE_RX" : "4 MHz",
+		"FRE_TX" : "4 MHz",
+		"PESO" : "4 KGS"
+	},
+	{
+		"ID_FOLIO" : "5",
+		"TIPO_ANTENA" : "Antena 2 MW",
+		"ORIENTACION" : "5 GDOS",
+		"NCR" : "5 MTS",
+		"DIMENSIONES" : "5 CMS",
+		"FRE_RX" : "5 GHz",
+		"FRE_TX" : "5 GHz",
+		"PESO" : "5 KGS"
+	},
+	{
+		"ID_FOLIO" : "5",
+		"TIPO_ANTENA" : "Antena 3 MW",
+		"ORIENTACION" : "6 GDOS",
+		"NCR" : "6 MTS",
+		"DIMENSIONES" : "6 CMS",
+		"FRE_RX" : "6 GHz",
+		"FRE_TX" : "6 GHz",
+		"PESO" : "6 KGS"
+	},
+	{
+		"ID_FOLIO" : "5",
+		"TIPO_ANTENA" : "Antena 4 RF",
+		"ORIENTACION" : "8 GDOS",
+		"NCR" : "8 MTS",
+		"DIMENSIONES" : "8 X 8 CMS",
+		"FRE_RX" : "8 MHz",
+		"FRE_TX" : "8 MHz",
+		"PESO" : "8 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "543 GDOS",
+		"NCR" : "534 MTS",
+		"DIMENSIONES" : "534 X 534 CMS",
+		"FRE_RX" : "543 MHz",
+		"FRE_TX" : "543 MHz",
+		"PESO" : "543 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 1 MW",
+		"ORIENTACION" : "543 GDOS",
+		"NCR" : "543 MTS",
+		"DIMENSIONES" : "534 CMS",
+		"FRE_RX" : "543 GHz",
+		"FRE_TX" : "534 GHz",
+		"PESO" : "534 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 2 RF",
+		"ORIENTACION" : "987 GDOS",
+		"NCR" : "978 MTS",
+		"DIMENSIONES" : "978 X 9876 CMS",
+		"FRE_RX" : "9786 MHz",
+		"FRE_TX" : "9867 MHz",
+		"PESO" : "9876 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 3 RF",
+		"ORIENTACION" : "634 GDOS",
+		"NCR" : "654 MTS",
+		"DIMENSIONES" : "654 X 654 CMS",
+		"FRE_RX" : "654 MHz",
+		"FRE_TX" : "6 MHz",
+		"PESO" : "6 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 4 RF",
+		"ORIENTACION" : "543 GDOS",
+		"NCR" : "534 MTS",
+		"DIMENSIONES" : "534 X 523 CMS",
+		"FRE_RX" : "534 MHz",
+		"FRE_TX" : "534 MHz",
+		"PESO" : "534 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 2 MW",
+		"ORIENTACION" : "4567 GDOS",
+		"NCR" : "5467 MTS",
+		"DIMENSIONES" : "5467 CMS",
+		"FRE_RX" : "5467 GHz",
+		"FRE_TX" : "5467 GHz",
+		"PESO" : "5467 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 5 RF",
+		"ORIENTACION" : "2134214 GDOS",
+		"NCR" : "23421 MTS",
+		"DIMENSIONES" : "214 X 214 CMS",
+		"FRE_RX" : "4423 MHz",
+		"FRE_TX" : "243412 MHz",
+		"PESO" : "234234 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 3 MW",
+		"ORIENTACION" : "654654 GDOS",
+		"NCR" : "56546 MTS",
+		"DIMENSIONES" : "54 CMS",
+		"FRE_RX" : "6546 GHz",
+		"FRE_TX" : "546546 GHz",
+		"PESO" : "6546 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 4 MW",
+		"ORIENTACION" : "534523 GDOS",
+		"NCR" : "5345 MTS",
+		"DIMENSIONES" : "23534 CMS",
+		"FRE_RX" : "34 GHz",
+		"FRE_TX" : "5345 GHz",
+		"PESO" : "5345 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 6 RF",
+		"ORIENTACION" : "423423 GDOS",
+		"NCR" : "42314 MTS",
+		"DIMENSIONES" : "4234 X 423 CMS",
+		"FRE_RX" : "4234 MHz",
+		"FRE_TX" : "423 MHz",
+		"PESO" : "423421 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 5 MW",
+		"ORIENTACION" : "5345 GDOS",
+		"NCR" : "334 MTS",
+		"DIMENSIONES" : "534 CMS",
+		"FRE_RX" : "534 GHz",
+		"FRE_TX" : "534523 GHz",
+		"PESO" : "5345 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 7 RF",
+		"ORIENTACION" : "5345 GDOS",
+		"NCR" : "235 MTS",
+		"DIMENSIONES" : "34534 X 5534 CMS",
+		"FRE_RX" : "53 MHz",
+		"FRE_TX" : "534 MHz",
+		"PESO" : "5345 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 8 RF",
+		"ORIENTACION" : "6546 GDOS",
+		"NCR" : "436 MTS",
+		"DIMENSIONES" : "654 X 6654 CMS",
+		"FRE_RX" : "54 MHz",
+		"FRE_TX" : "6546 MHz",
+		"PESO" : "45654 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 6 MW",
+		"ORIENTACION" : "534 GDOS",
+		"NCR" : "534 MTS",
+		"DIMENSIONES" : "534 CMS",
+		"FRE_RX" : "5 GHz",
+		"FRE_TX" : "534 GHz",
+		"PESO" : "534534 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 9 RF",
+		"ORIENTACION" : "645 GDOS",
+		"NCR" : "654 MTS",
+		"DIMENSIONES" : "654 X 654 CMS",
+		"FRE_RX" : "654 MHz",
+		"FRE_TX" : "6 MHz",
+		"PESO" : "34654 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 10 RF",
+		"ORIENTACION" : "533 GDOS",
+		"NCR" : "534 MTS",
+		"DIMENSIONES" : "5345 X 53 CMS",
+		"FRE_RX" : "53453 MHz",
+		"FRE_TX" : "253 MHz",
+		"PESO" : "535 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 11 RF",
+		"ORIENTACION" : "345235 GDOS",
+		"NCR" : "5 MTS",
+		"DIMENSIONES" : "5345 X 5 CMS",
+		"FRE_RX" : "3453 MHz",
+		"FRE_TX" : "5 MHz",
+		"PESO" : "34535 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 12 RF",
+		"ORIENTACION" : "5345 GDOS",
+		"NCR" : "534 MTS",
+		"DIMENSIONES" : "5523 X 55 CMS",
+		"FRE_RX" : "53 MHz",
+		"FRE_TX" : "5345 MHz",
+		"PESO" : "345 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 7 MW",
+		"ORIENTACION" : "6546 GDOS",
+		"NCR" : "654 MTS",
+		"DIMENSIONES" : "6346 CMS",
+		"FRE_RX" : "546546 GHz",
+		"FRE_TX" : "6546 GHz",
+		"PESO" : "654 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 8 MW",
+		"ORIENTACION" : "5464 GDOS",
+		"NCR" : "6 MTS",
+		"DIMENSIONES" : "64 CMS",
+		"FRE_RX" : "654 GHz",
+		"FRE_TX" : "6 GHz",
+		"PESO" : "6 KGS"
+	},
+	{
+		"ID_FOLIO" : "26",
+		"TIPO_ANTENA" : "Antena 9 MW",
+		"ORIENTACION" : "42342 GDOS",
+		"NCR" : "1424 MTS",
+		"DIMENSIONES" : "4 CMS",
+		"FRE_RX" : "4 GHz",
+		"FRE_TX" : "4 GHz",
+		"PESO" : "4234 KGS"
+	},
+	{
+		"ID_FOLIO" : "38",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "10 GDOS",
+		"NCR" : "10 MTS",
+		"DIMENSIONES" : "10 X 10 CMS",
+		"FRE_RX" : "10 MHz",
+		"FRE_TX" : "10 MHz",
+		"PESO" : "10 KGS"
+	},
+	{
+		"ID_FOLIO" : "38",
+		"TIPO_ANTENA" : "Antena 1 MW",
+		"ORIENTACION" : "10 GDOS",
+		"NCR" : "10 MTS",
+		"DIMENSIONES" : "10 CMS",
+		"FRE_RX" : "10 GHz",
+		"FRE_TX" : "10 GHz",
+		"PESO" : "10 KGS"
+	},
+	{
+		"ID_FOLIO" : "38",
+		"TIPO_ANTENA" : "Antena 2 MW",
+		"ORIENTACION" : "30 GDOS",
+		"NCR" : "30 MTS",
+		"DIMENSIONES" : "30 CMS",
+		"FRE_RX" : "30 GHz",
+		"FRE_TX" : "30 GHz",
+		"PESO" : "30 KGS"
+	},
+	{
+		"ID_FOLIO" : "53",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "20 (GDOS)",
+		"NCR" : "20 mts",
+		"DIMENSIONES" : "10 X 10 cm",
+		"FRE_RX" : "20 MHz",
+		"FRE_TX" : "10 MHz",
+		"PESO" : "10 kg"
+	},
+	{
+		"ID_FOLIO" : "64",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "10 GDOS",
+		"NCR" : "10 MTS",
+		"DIMENSIONES" : "10 X 10 CMS",
+		"FRE_RX" : "10 MHz",
+		"FRE_TX" : "10 MHz",
+		"PESO" : "10 KGS"
+	},
+	{
+		"ID_FOLIO" : "37",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "10 GDOS",
+		"NCR" : "10 MTS",
+		"DIMENSIONES" : "10 X 10 CMS",
+		"FRE_RX" : "10 MHz",
+		"FRE_TX" : "10 MHz",
+		"PESO" : "10 KGS"
+	},
+	{
+		"ID_FOLIO" : "60",
+		"TIPO_ANTENA" : "Antena 1 MW",
+		"ORIENTACION" : "13 GDOS",
+		"NCR" : "13 MTS",
+		"DIMENSIONES" : "13 CMS",
+		"FRE_RX" : "12 GHz",
+		"FRE_TX" : "12 GHz",
+		"PESO" : "12 KGS"
+	},
+	{
+		"ID_FOLIO" : "60",
+		"TIPO_ANTENA" : "Antena 2 RF",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "1 MTS",
+		"DIMENSIONES" : "1 X 1 CMS",
+		"FRE_RX" : "1 MHz",
+		"FRE_TX" : "1 MHz",
+		"PESO" : "1 KGS"
+	},
+	{
+		"ID_FOLIO" : "28",
+		"TIPO_ANTENA" : "Antena 1 MW",
+		"ORIENTACION" : "432 GDOS",
+		"NCR" : "432 MTS",
+		"DIMENSIONES" : "423 CMS",
+		"FRE_RX" : "432 GHz",
+		"FRE_TX" : "432 GHz",
+		"PESO" : "423 KGS"
+	},
+	{
+		"ID_FOLIO" : "60",
+		"TIPO_ANTENA" : "Antena 1 RF",
+		"ORIENTACION" : "11 GDOS",
+		"NCR" : "11 MTS",
+		"DIMENSIONES" : "11 X 11 CMS",
+		"FRE_RX" : "11 MHz",
+		"FRE_TX" : "11 MHz",
+		"PESO" : "11 KGS"
+	},
+	{
+		"ID_FOLIO" : "87",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "65 GDOS",
+		"NCR" : "56 MTS",
+		"DIMENSIONES" : "45 X 45 CM",
+		"FRE_RX" : "1200 MHz",
+		"FRE_TX" : "129 MHz",
+		"PESO" : "90 KG"
+	},
+	{
+		"ID_FOLIO" : "91",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "67 GDOS",
+		"NCR" : "120 MTS",
+		"DIMENSIONES" : "45 X 54 CM",
+		"FRE_RX" : "1200 MHz",
+		"FRE_TX" : "1200 MHz",
+		"PESO" : "30 KG"
+	},
+	{
+		"ID_FOLIO" : "126",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "2 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "22 X 22 CM",
+		"FRE_RX" : "2 MHz",
+		"FRE_TX" : "2 MHz",
+		"PESO" : "22 KG"
+	},
+	{
+		"ID_FOLIO" : "131",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "5 GDOS",
+		"NCR" : "5 MTS",
+		"DIMENSIONES" : "5 X 5 CM",
+		"FRE_RX" : "5 MHz",
+		"FRE_TX" : "5 MHz",
+		"PESO" : "5 KG"
+	},
+	{
+		"ID_FOLIO" : "135",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "55 GDOS",
+		"NCR" : "5 MTS",
+		"DIMENSIONES" : "50 X 50 CM",
+		"FRE_RX" : "55 MHz",
+		"FRE_TX" : "55 MHz",
+		"PESO" : "100 KG"
+	},
+	{
+		"ID_FOLIO" : "135",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "21 GDOS",
+		"NCR" : "21 MTS",
+		"DIMENSIONES" : "2 CM",
+		"FRE_RX" : "12 MHz",
+		"FRE_TX" : "12 GHz",
+		"PESO" : "2 KG"
+	},
+	{
+		"ID_FOLIO" : "135",
+		"TIPO_ANTENA" : "ANTENA 2 RF",
+		"ORIENTACION" : "2 GDOS",
+		"NCR" : "12 MTS",
+		"DIMENSIONES" : "6 X 6 CM",
+		"FRE_RX" : "2 MHz",
+		"FRE_TX" : "222 MHz",
+		"PESO" : "56 KG"
+	},
+	{
+		"ID_FOLIO" : "138",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "3 GDOS",
+		"NCR" : "3 MTS",
+		"DIMENSIONES" : "2 X 3 CM",
+		"FRE_RX" : "3 MHz",
+		"FRE_TX" : "3 MHz",
+		"PESO" : "4 KG"
+	},
+	{
+		"ID_FOLIO" : "130",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "1 MTS",
+		"DIMENSIONES" : "1 X 2 CM",
+		"FRE_RX" : "1 MHz",
+		"FRE_TX" : "1 MHz",
+		"PESO" : "3 KG"
+	},
+	{
+		"ID_FOLIO" : "146",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "2 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "2 X 2 CM",
+		"FRE_RX" : "2 MHz",
+		"FRE_TX" : "2 MHz",
+		"PESO" : "2 KG"
+	},
+	{
+		"ID_FOLIO" : "190",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "2 X 2 CM",
+		"FRE_RX" : "3 MHz",
+		"FRE_TX" : "3 MHz",
+		"PESO" : "2 KG"
+	},
+	{
+		"ID_FOLIO" : "197",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "88 GDOS",
+		"NCR" : "32 MTS",
+		"DIMENSIONES" : "200 CM",
+		"FRE_RX" : "67 MHz",
+		"FRE_TX" : "88 GHz",
+		"PESO" : "30 KG"
+	},
+	{
+		"ID_FOLIO" : "196",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "9 GDOS",
+		"NCR" : "4 MTS",
+		"DIMENSIONES" : "3 X 5 CM",
+		"FRE_RX" : "6 MHz",
+		"FRE_TX" : "6 MHz",
+		"PESO" : "29 KG"
+	},
+	{
+		"ID_FOLIO" : "194",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "1 X 2 CM",
+		"FRE_RX" : "3 MHz",
+		"FRE_TX" : "4 MHz",
+		"PESO" : "3 KG"
+	},
+	{
+		"ID_FOLIO" : "195",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "1 X 2 CM",
+		"FRE_RX" : "3 MHz",
+		"FRE_TX" : "4 MHz",
+		"PESO" : "3 KG"
+	},
+	{
+		"ID_FOLIO" : "88",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "76 GDOS",
+		"NCR" : "120 MTS",
+		"DIMENSIONES" : "56 X 65 CM",
+		"FRE_RX" : "1200 MHz",
+		"FRE_TX" : "1200 MHz",
+		"PESO" : "80 KG"
+	},
+	{
+		"ID_FOLIO" : "89",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "78 GDOS",
+		"NCR" : "120 MTS",
+		"DIMENSIONES" : "45 X 45 CM",
+		"FRE_RX" : "1200 MHz",
+		"FRE_TX" : "1200 MHz",
+		"PESO" : "89 KG"
+	},
+	{
+		"ID_FOLIO" : "94",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "76 GDOS",
+		"NCR" : "13 MTS",
+		"DIMENSIONES" : "45 X 55 CM",
+		"FRE_RX" : "1200 MHz",
+		"FRE_TX" : "1200 MHz",
+		"PESO" : "15 KG"
+	},
+	{
+		"ID_FOLIO" : "95",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "76 GDOS",
+		"NCR" : "23 MTS",
+		"DIMENSIONES" : "45 X 32 CM",
+		"FRE_RX" : "1200 MHz",
+		"FRE_TX" : "1200 MHz",
+		"PESO" : "15 KG"
+	},
+	{
+		"ID_FOLIO" : "96",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "67 GDOS",
+		"NCR" : "28 MTS",
+		"DIMENSIONES" : "45 X 45 CM",
+		"FRE_RX" : "1200 MHz",
+		"FRE_TX" : "1200 MHz",
+		"PESO" : "56 KG"
+	},
+	{
+		"ID_FOLIO" : "103",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "23 GDOS",
+		"NCR" : "45 MTS",
+		"DIMENSIONES" : "10 X 20 CM",
+		"FRE_RX" : "67 MHz",
+		"FRE_TX" : "21 MHz",
+		"PESO" : "30 KG"
+	},
+	{
+		"ID_FOLIO" : "103",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "34 GDOS",
+		"NCR" : "56 MTS",
+		"DIMENSIONES" : "23 CM",
+		"FRE_RX" : "12 MHz",
+		"FRE_TX" : "34 GHz",
+		"PESO" : "34 KG"
+	},
+	{
+		"ID_FOLIO" : "65",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "12 GDOS",
+		"NCR" : "34 MTS",
+		"DIMENSIONES" : "150 X 150 CM",
+		"FRE_RX" : "56 MHz",
+		"FRE_TX" : "78 MHz",
+		"PESO" : "5 KG"
+	},
+	{
+		"ID_FOLIO" : "61",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "12 GDOS",
+		"NCR" : "34 MTS",
+		"DIMENSIONES" : "10 X 10 CM",
+		"FRE_RX" : "56 MHz",
+		"FRE_TX" : "67 MHz",
+		"PESO" : "10 KG"
+	},
+	{
+		"ID_FOLIO" : "61",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "98 GDOS",
+		"NCR" : "34 MTS",
+		"DIMENSIONES" : "20 CM",
+		"FRE_RX" : "56 MHz",
+		"FRE_TX" : "78 GHz",
+		"PESO" : "20 KG"
+	},
+	{
+		"ID_FOLIO" : "61",
+		"TIPO_ANTENA" : "ANTENA 2 MW",
+		"ORIENTACION" : "55 GDOS",
+		"NCR" : "65 MTS",
+		"DIMENSIONES" : "30 CM",
+		"FRE_RX" : "67 MHz",
+		"FRE_TX" : "78 GHz",
+		"PESO" : "30 KG"
+	},
+	{
+		"ID_FOLIO" : "61",
+		"TIPO_ANTENA" : "ANTENA 2 RF",
+		"ORIENTACION" : "45 GDOS",
+		"NCR" : "34 MTS",
+		"DIMENSIONES" : "40 X 40 CM",
+		"FRE_RX" : "55 MHz",
+		"FRE_TX" : "67 MHz",
+		"PESO" : "40 KG"
+	},
+	{
+		"ID_FOLIO" : "78",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "12 GDOS",
+		"NCR" : "34 MTS",
+		"DIMENSIONES" : "54 CM",
+		"FRE_RX" : "56 MHz",
+		"FRE_TX" : "67 GHz",
+		"PESO" : "35 KG"
+	},
+	{
+		"ID_FOLIO" : "144",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "1 X 2 CM",
+		"FRE_RX" : "3 MHz",
+		"FRE_TX" : "4 MHz",
+		"PESO" : "3 KG"
+	},
+	{
+		"ID_FOLIO" : "202",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "5 GDOS",
+		"NCR" : "5 MTS",
+		"DIMENSIONES" : "2 X 2 CM",
+		"FRE_RX" : "5 MHz",
+		"FRE_TX" : "5 MHz",
+		"PESO" : "23 KG"
+	},
+	{
+		"ID_FOLIO" : "186",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "3 CM",
+		"FRE_RX" : "3 MHz",
+		"FRE_TX" : "4 GHz",
+		"PESO" : "3 KG"
+	}
+]}

@@ -1,0 +1,123 @@
+{
+"SELECT * FROM BDDSEG01.T3SINB_SOLI_COLO_ESP_TOR": [
+	{
+		"ID_FOLIO" : "133",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "6 GDOS",
+		"NCR" : "6 MTS",
+		"DIMENSIONES" : "5 CM",
+		"FRE_RX" : "6 MHz",
+		"FRE_TX" : "6 GHz",
+		"PESO" : "5 KG",
+		"ID_HIST_SOLICITUD" : "133-3",
+		"ID_VERSION" : 3
+	},
+	{
+		"ID_FOLIO" : "150",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "1 X 2 CM",
+		"FRE_RX" : "3 MHz",
+		"FRE_TX" : "4 MHz",
+		"PESO" : "3 KG",
+		"ID_HIST_SOLICITUD" : "150-2",
+		"ID_VERSION" : 0
+	},
+	{
+		"ID_FOLIO" : "126",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "2 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "22 X 22 CM",
+		"FRE_RX" : "2 MHz",
+		"FRE_TX" : "2 MHz",
+		"PESO" : "22 KG",
+		"ID_HIST_SOLICITUD" : "126-2",
+		"ID_VERSION" : 1
+	},
+	{
+		"ID_FOLIO" : "131",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "5 GDOS",
+		"NCR" : "5 MTS",
+		"DIMENSIONES" : "5 X 5 CM",
+		"FRE_RX" : "5 MHz",
+		"FRE_TX" : "5 MHz",
+		"PESO" : "5 KG",
+		"ID_HIST_SOLICITUD" : "131-2",
+		"ID_VERSION" : 1
+	},
+	{
+		"ID_FOLIO" : "128",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "1 MTS",
+		"DIMENSIONES" : "2000 CM",
+		"FRE_RX" : "1 MHz",
+		"FRE_TX" : "1 GHz",
+		"PESO" : "300 KG",
+		"ID_HIST_SOLICITUD" : "128-1",
+		"ID_VERSION" : 1
+	},
+	{
+		"ID_FOLIO" : "190",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "2 X 2 CM",
+		"FRE_RX" : "3 MHz",
+		"FRE_TX" : "3 MHz",
+		"PESO" : "2 KG",
+		"ID_HIST_SOLICITUD" : "190-2",
+		"ID_VERSION" : 0
+	},
+	{
+		"ID_FOLIO" : "129",
+		"TIPO_ANTENA" : "ANTENA 1 MW",
+		"ORIENTACION" : "2 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "2 CM",
+		"FRE_RX" : "2 MHz",
+		"FRE_TX" : "2 GHz",
+		"PESO" : "2 KG",
+		"ID_HIST_SOLICITUD" : "129-5",
+		"ID_VERSION" : 5
+	},
+	{
+		"ID_FOLIO" : "129",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "22 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "2 X 2 CM",
+		"FRE_RX" : "2 MHz",
+		"FRE_TX" : "2 MHz",
+		"PESO" : "2 KG",
+		"ID_HIST_SOLICITUD" : "129-5",
+		"ID_VERSION" : 5
+	},
+	{
+		"ID_FOLIO" : "144",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "1 GDOS",
+		"NCR" : "2 MTS",
+		"DIMENSIONES" : "1 X 2 CM",
+		"FRE_RX" : "3 MHz",
+		"FRE_TX" : "4 MHz",
+		"PESO" : "3 KG",
+		"ID_HIST_SOLICITUD" : "144-1",
+		"ID_VERSION" : 1
+	},
+	{
+		"ID_FOLIO" : "202",
+		"TIPO_ANTENA" : "ANTENA 1 RF",
+		"ORIENTACION" : "5 GDOS",
+		"NCR" : "5 MTS",
+		"DIMENSIONES" : "2 X 2 CM",
+		"FRE_RX" : "5 MHz",
+		"FRE_TX" : "5 MHz",
+		"PESO" : "23 KG",
+		"ID_HIST_SOLICITUD" : "202-2",
+		"ID_VERSION" : 2
+	}
+]}

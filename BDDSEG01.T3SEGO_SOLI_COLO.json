@@ -1,0 +1,525 @@
+{
+"SELECT * FROM BDDSEG01.T3SEGO_SOLI_COLO": [
+	{
+		"ID_FOLIO" : "101",
+		"L_TRANS_RF_CALIBRE" : "5",
+		"L_TRANS_MW_CALIBRE" : "5",
+		"SUPERFICIE" : "5",
+		"C_TRANSFORMADOR" : "5",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "133",
+		"L_TRANS_RF_CALIBRE" : "7",
+		"L_TRANS_MW_CALIBRE" : "7",
+		"SUPERFICIE" : "4",
+		"C_TRANSFORMADOR" : "4",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : "X"
+	},
+	{
+		"ID_FOLIO" : "52",
+		"L_TRANS_RF_CALIBRE" : "1",
+		"L_TRANS_MW_CALIBRE" : "1",
+		"SUPERFICIE" : "2",
+		"C_TRANSFORMADOR" : "2",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "49",
+		"L_TRANS_RF_CALIBRE" : "1",
+		"L_TRANS_MW_CALIBRE" : "2",
+		"SUPERFICIE" : "4",
+		"C_TRANSFORMADOR" : "5",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "71",
+		"L_TRANS_RF_CALIBRE" : "54",
+		"L_TRANS_MW_CALIBRE" : "30",
+		"SUPERFICIE" : "23",
+		"C_TRANSFORMADOR" : "60",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "129",
+		"L_TRANS_RF_CALIBRE" : "1",
+		"L_TRANS_MW_CALIBRE" : "1",
+		"SUPERFICIE" : "2",
+		"C_TRANSFORMADOR" : "2",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : "X"
+	},
+	{
+		"ID_FOLIO" : "21",
+		"L_TRANS_RF_CALIBRE" : "50",
+		"L_TRANS_MW_CALIBRE" : "50",
+		"SUPERFICIE" : "23",
+		"C_TRANSFORMADOR" : "32",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : "X"
+	},
+	{
+		"ID_FOLIO" : "102",
+		"L_TRANS_RF_CALIBRE" : "23",
+		"L_TRANS_MW_CALIBRE" : "36",
+		"SUPERFICIE" : "56",
+		"C_TRANSFORMADOR" : "35",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "128",
+		"L_TRANS_RF_CALIBRE" : "1",
+		"L_TRANS_MW_CALIBRE" : "1",
+		"SUPERFICIE" : "1",
+		"C_TRANSFORMADOR" : "1",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "150",
+		"L_TRANS_RF_CALIBRE" : "1",
+		"L_TRANS_MW_CALIBRE" : "2",
+		"SUPERFICIE" : "1",
+		"C_TRANSFORMADOR" : "1",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "156",
+		"L_TRANS_RF_CALIBRE" : "22",
+		"L_TRANS_MW_CALIBRE" : "22",
+		"SUPERFICIE" : "23",
+		"C_TRANSFORMADOR" : "233",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "204",
+		"L_TRANS_RF_CALIBRE" : "23",
+		"L_TRANS_MW_CALIBRE" : "12",
+		"SUPERFICIE" : "34",
+		"C_TRANSFORMADOR" : "22",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "60",
+		"L_TRANS_RF_CALIBRE" : "5",
+		"L_TRANS_MW_CALIBRE" : "5",
+		"SUPERFICIE" : "10",
+		"C_TRANSFORMADOR" : "1200",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : "X"
+	},
+	{
+		"ID_FOLIO" : "28",
+		"L_TRANS_RF_CALIBRE" : "543",
+		"L_TRANS_MW_CALIBRE" : "534",
+		"SUPERFICIE" : "432",
+		"C_TRANSFORMADOR" : "432",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "14",
+		"L_TRANS_RF_CALIBRE" : "20",
+		"L_TRANS_MW_CALIBRE" : "30",
+		"SUPERFICIE" : "20",
+		"C_TRANSFORMADOR" : "10",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "44",
+		"L_TRANS_RF_CALIBRE" : "20",
+		"L_TRANS_MW_CALIBRE" : "20",
+		"SUPERFICIE" : "5",
+		"C_TRANSFORMADOR" : "5",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "56",
+		"L_TRANS_RF_CALIBRE" : "1",
+		"L_TRANS_MW_CALIBRE" : "1",
+		"SUPERFICIE" : "1",
+		"C_TRANSFORMADOR" : "1",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "69",
+		"L_TRANS_RF_CALIBRE" : "200",
+		"L_TRANS_MW_CALIBRE" : "200",
+		"SUPERFICIE" : "300",
+		"C_TRANSFORMADOR" : "300",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "68",
+		"L_TRANS_RF_CALIBRE" : "500",
+		"L_TRANS_MW_CALIBRE" : "500",
+		"SUPERFICIE" : "20",
+		"C_TRANSFORMADOR" : "50",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "47",
+		"L_TRANS_RF_CALIBRE" : "300",
+		"L_TRANS_MW_CALIBRE" : "500",
+		"SUPERFICIE" : "500",
+		"C_TRANSFORMADOR" : "500",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "7",
+		"L_TRANS_RF_CALIBRE" : "8",
+		"L_TRANS_MW_CALIBRE" : "12",
+		"SUPERFICIE" : "5",
+		"C_TRANSFORMADOR" : "12000",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "9",
+		"L_TRANS_RF_CALIBRE" : "20",
+		"L_TRANS_MW_CALIBRE" : "10",
+		"SUPERFICIE" : "20",
+		"C_TRANSFORMADOR" : "1000",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "19",
+		"L_TRANS_RF_CALIBRE" : "21",
+		"L_TRANS_MW_CALIBRE" : "12",
+		"SUPERFICIE" : "12",
+		"C_TRANSFORMADOR" : "21",
+		"OBSERVACIONES" : "prueba de rechazo ",
+		"OBSERVACIONES_TELCEL" : "X"
+	},
+	{
+		"ID_FOLIO" : "4",
+		"L_TRANS_RF_CALIBRE" : "9",
+		"L_TRANS_MW_CALIBRE" : "9",
+		"SUPERFICIE" : "9",
+		"C_TRANSFORMADOR" : "9",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "51",
+		"L_TRANS_RF_CALIBRE" : "10",
+		"L_TRANS_MW_CALIBRE" : "10",
+		"SUPERFICIE" : "5",
+		"C_TRANSFORMADOR" : "10",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : "X"
+	},
+	{
+		"ID_FOLIO" : "63",
+		"L_TRANS_RF_CALIBRE" : "5",
+		"L_TRANS_MW_CALIBRE" : "5",
+		"SUPERFICIE" : "5",
+		"C_TRANSFORMADOR" : "1200",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "11",
+		"L_TRANS_RF_CALIBRE" : "100",
+		"L_TRANS_MW_CALIBRE" : "100",
+		"SUPERFICIE" : "300",
+		"C_TRANSFORMADOR" : "500",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "5",
+		"L_TRANS_RF_CALIBRE" : "20",
+		"L_TRANS_MW_CALIBRE" : "20",
+		"SUPERFICIE" : "30",
+		"C_TRANSFORMADOR" : "30",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "38",
+		"L_TRANS_RF_CALIBRE" : "30",
+		"L_TRANS_MW_CALIBRE" : "40",
+		"SUPERFICIE" : "432",
+		"C_TRANSFORMADOR" : "1000",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "26",
+		"L_TRANS_RF_CALIBRE" : "543",
+		"L_TRANS_MW_CALIBRE" : "543",
+		"SUPERFICIE" : "645",
+		"C_TRANSFORMADOR" : "654",
+		"OBSERVACIONES" : "fgdfsgfdsg",
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "53",
+		"L_TRANS_RF_CALIBRE" : "10",
+		"L_TRANS_MW_CALIBRE" : "10",
+		"SUPERFICIE" : "10",
+		"C_TRANSFORMADOR" : "10",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "64",
+		"L_TRANS_RF_CALIBRE" : "5",
+		"L_TRANS_MW_CALIBRE" : "10",
+		"SUPERFICIE" : "10",
+		"C_TRANSFORMADOR" : "5",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "37",
+		"L_TRANS_RF_CALIBRE" : "100",
+		"L_TRANS_MW_CALIBRE" : "100",
+		"SUPERFICIE" : "100",
+		"C_TRANSFORMADOR" : "100",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "87",
+		"L_TRANS_RF_CALIBRE" : "5",
+		"L_TRANS_MW_CALIBRE" : "5",
+		"SUPERFICIE" : "45",
+		"C_TRANSFORMADOR" : "45",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "91",
+		"L_TRANS_RF_CALIBRE" : "56",
+		"L_TRANS_MW_CALIBRE" : "56",
+		"SUPERFICIE" : "120",
+		"C_TRANSFORMADOR" : "120",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "126",
+		"L_TRANS_RF_CALIBRE" : "2",
+		"L_TRANS_MW_CALIBRE" : "2",
+		"SUPERFICIE" : "2",
+		"C_TRANSFORMADOR" : "2",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : "X"
+	},
+	{
+		"ID_FOLIO" : "131",
+		"L_TRANS_RF_CALIBRE" : "5",
+		"L_TRANS_MW_CALIBRE" : "5",
+		"SUPERFICIE" : "5",
+		"C_TRANSFORMADOR" : "5",
+		"OBSERVACIONES" : "pv2",
+		"OBSERVACIONES_TELCEL" : "X"
+	},
+	{
+		"ID_FOLIO" : "135",
+		"L_TRANS_RF_CALIBRE" : "8",
+		"L_TRANS_MW_CALIBRE" : "10",
+		"SUPERFICIE" : "12",
+		"C_TRANSFORMADOR" : "22",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "138",
+		"L_TRANS_RF_CALIBRE" : "2",
+		"L_TRANS_MW_CALIBRE" : "32",
+		"SUPERFICIE" : "23",
+		"C_TRANSFORMADOR" : "23",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "130",
+		"L_TRANS_RF_CALIBRE" : "1",
+		"L_TRANS_MW_CALIBRE" : "1",
+		"SUPERFICIE" : "1",
+		"C_TRANSFORMADOR" : "1",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "146",
+		"L_TRANS_RF_CALIBRE" : "56",
+		"L_TRANS_MW_CALIBRE" : "78",
+		"SUPERFICIE" : "78",
+		"C_TRANSFORMADOR" : "78",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "190",
+		"L_TRANS_RF_CALIBRE" : "1",
+		"L_TRANS_MW_CALIBRE" : "2",
+		"SUPERFICIE" : "1",
+		"C_TRANSFORMADOR" : "2",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "197",
+		"L_TRANS_RF_CALIBRE" : "3",
+		"L_TRANS_MW_CALIBRE" : "5",
+		"SUPERFICIE" : "34",
+		"C_TRANSFORMADOR" : "6",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "196",
+		"L_TRANS_RF_CALIBRE" : "3",
+		"L_TRANS_MW_CALIBRE" : "5",
+		"SUPERFICIE" : "45",
+		"C_TRANSFORMADOR" : "77",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "194",
+		"L_TRANS_RF_CALIBRE" : "1",
+		"L_TRANS_MW_CALIBRE" : "2",
+		"SUPERFICIE" : "2",
+		"C_TRANSFORMADOR" : "3",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "195",
+		"L_TRANS_RF_CALIBRE" : "1",
+		"L_TRANS_MW_CALIBRE" : "2",
+		"SUPERFICIE" : "1",
+		"C_TRANSFORMADOR" : "2",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "88",
+		"L_TRANS_RF_CALIBRE" : "5",
+		"L_TRANS_MW_CALIBRE" : "5",
+		"SUPERFICIE" : "45",
+		"C_TRANSFORMADOR" : "45",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "89",
+		"L_TRANS_RF_CALIBRE" : "5",
+		"L_TRANS_MW_CALIBRE" : "5",
+		"SUPERFICIE" : "45",
+		"C_TRANSFORMADOR" : "45",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "94",
+		"L_TRANS_RF_CALIBRE" : "5",
+		"L_TRANS_MW_CALIBRE" : "5",
+		"SUPERFICIE" : "45",
+		"C_TRANSFORMADOR" : "120",
+		"OBSERVACIONES" : "se rechaza solicitud",
+		"OBSERVACIONES_TELCEL" : "X"
+	},
+	{
+		"ID_FOLIO" : "95",
+		"L_TRANS_RF_CALIBRE" : "5",
+		"L_TRANS_MW_CALIBRE" : "5",
+		"SUPERFICIE" : "45",
+		"C_TRANSFORMADOR" : "45",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "96",
+		"L_TRANS_RF_CALIBRE" : "5",
+		"L_TRANS_MW_CALIBRE" : "5",
+		"SUPERFICIE" : "45",
+		"C_TRANSFORMADOR" : "45",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : "X"
+	},
+	{
+		"ID_FOLIO" : "103",
+		"L_TRANS_RF_CALIBRE" : "122",
+		"L_TRANS_MW_CALIBRE" : "123",
+		"SUPERFICIE" : "23",
+		"C_TRANSFORMADOR" : "45",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "65",
+		"L_TRANS_RF_CALIBRE" : "12",
+		"L_TRANS_MW_CALIBRE" : "34",
+		"SUPERFICIE" : "56",
+		"C_TRANSFORMADOR" : "46",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "61",
+		"L_TRANS_RF_CALIBRE" : "23",
+		"L_TRANS_MW_CALIBRE" : "36",
+		"SUPERFICIE" : "34",
+		"C_TRANSFORMADOR" : "56",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "78",
+		"L_TRANS_RF_CALIBRE" : "123",
+		"L_TRANS_MW_CALIBRE" : "45",
+		"SUPERFICIE" : "122",
+		"C_TRANSFORMADOR" : "134",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "144",
+		"L_TRANS_RF_CALIBRE" : "1",
+		"L_TRANS_MW_CALIBRE" : "2",
+		"SUPERFICIE" : "1",
+		"C_TRANSFORMADOR" : "2",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	},
+	{
+		"ID_FOLIO" : "202",
+		"L_TRANS_RF_CALIBRE" : "50",
+		"L_TRANS_MW_CALIBRE" : "60",
+		"SUPERFICIE" : "50",
+		"C_TRANSFORMADOR" : "60",
+		"OBSERVACIONES" : "Rechazo 04032026-1",
+		"OBSERVACIONES_TELCEL" : "X"
+	},
+	{
+		"ID_FOLIO" : "186",
+		"L_TRANS_RF_CALIBRE" : "1",
+		"L_TRANS_MW_CALIBRE" : "2",
+		"SUPERFICIE" : "2",
+		"C_TRANSFORMADOR" : "2",
+		"OBSERVACIONES" : null,
+		"OBSERVACIONES_TELCEL" : null
+	}
+]}
